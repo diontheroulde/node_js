@@ -1,0 +1,19 @@
+{
+  "name": "node_js",
+  "version": "20.14.0",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diontheroulde/node_js.git"
+  },
+  "author": "Dion Theroulde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diontheroulde/node_js/issues"
+  },
+  "homepage": "https://github.com/diontheroulde/node_js#readme"
+}
